@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://gitlab.com/ralt/linux-packaging.git   |
-| commit  | {"messa  |
+| commit  | b2f5fc7  |
 | systems | linux-packaging |
 |---------+-------------------------------------------|
 
